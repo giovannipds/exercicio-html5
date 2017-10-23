@@ -37,5 +37,5 @@ Um bom exercício para você!
 
 ## Colaboradores
 
-* [Anderson Nascimento](http://www.andersonn.com.br)
-* [Giovanni Pires da Silva](https://github.com/giovannipds)
+* [Anderson Nascimento](http://www.andersonn.com.br);
+* [Giovanni Pires da Silva](https://github.com/giovannipds).
