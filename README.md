@@ -12,7 +12,7 @@ Dica: para maior visualização do mockup, utilize como referência a imagem em 
 
 Os seguintes pré-requisitos deverão ser atendidos:
 
-* O <span title="a marcação">markup</span> deverá ser um **HTML5 válido**, de acordo com o serviço [Markup Validation Service](https://validator.w3.org/), do (W3C)[http://www.w3c.br/Home/WebHome];
+* O <span title="a marcação">markup</span> deverá ser um **HTML5 válido**, de acordo com o serviço [Markup Validation Service](https://validator.w3.org/), do [W3C](http://www.w3c.br/Home/WebHome);
 * **No mínimo**, as seguintes tags deverão ser utilizadas corretamente, aonde convir:
   * `<html>`, `<head>`, `<meta>`, `<body>`, `<header>`, `<nav>`, `<ul>`, `<li>`, `<a>`, `<main>`, `<section>`, `<h1>`, `<img>`, `<h2>`, `<p>`, `<aside>`, `<form>`, `<input>`, `<ol>`, `<footer>` e `<address>` - <abbr title="Observação">obs.</abbr>: o uso da tag `<article>` é opcional e passível de interpretação.
 * Todo exercício deverá ser reproduzido em um **NOVO** repositório criado no [GitHub](https://github.com/) de seu usuário;
